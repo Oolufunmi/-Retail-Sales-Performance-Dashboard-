@@ -83,7 +83,6 @@ The goal was to create a modern dashboard suitable for executive reporting and b
 ## 📷 Dashboard Preview
 
 <img width="<img width="1331" height="747" alt="latest" src="https://github.com/user-attachments/assets/e580585e-3d73-4ecd-b871-91adf47441ef" />
-" />
 
 ---
 
